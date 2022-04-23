@@ -190,7 +190,7 @@ ul {
 @media (min-width: 320px) and (max-width: 600px) {
 	.bio {
 		width: 80vw;
-		height: 80%;
+		height: 60%;
 		padding-top: 160px;
 	}
 	
